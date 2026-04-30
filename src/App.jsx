@@ -72,8 +72,7 @@ function App() {
         >
           <h1>Colin Pontell</h1>
           <p>
-            Web Design Graduate focused on clean, accessible, and user-friendly
-            digital experiences.
+            Web and Interactive Media Graduate focused on designing and implementing new concepts and ideas.
           </p>
           <a href="#projects" className="btn">View Projects</a>
         </motion.div>
@@ -90,21 +89,24 @@ function App() {
         <h2>About Me</h2>
 
         <p>
-          I am a graduate from the University of Central Florida with a degree in Web Design.
-          I enjoy creating websites and applications that are clean, user-friendly, and accessible.
-          My interests include front-end development, UI/UX design, accessibility, and building
-          digital products that solve real problems.
+          I am a graduate from the University of Central Florida with a degree in Web and Interactive Media.
+          I enjoy building websites and applications that are clean and easy to use.
+          I’m interested in both front-end and back-end development, especially when it comes to
+          building full applications from start to finish.
         </p>
 
         <p>
-          I also have experience with back-end development, databases, and full-stack workflows.
-          I have worked with APIs, MongoDB, MySQL, Node.js, PHP, and data-driven applications
-          that connect front-end interfaces with real user information and stored data.
+          On the back-end side, I’ve worked with Node.js and Express to build APIs that handle things like user login, account data, and saving preferences. I’ve also used MongoDB and MySQL to store and manage data, and I like being able to tie together the front end and the database.
         </p>
 
         <p>
-          My goal is to create professional digital experiences that look modern, function smoothly,
-          and provide value to users while continuing to grow as a developer.
+          I’ve had experience working with full-stack projects where the app is constantly sending
+          and receiving data from a server. I want my projects to run smoothly behind the scenes, not just what the user sees.
+        </p>
+
+        <p>
+          My goal is to keep improving as a developer and build projects that not only look good,
+          but actually work well and provide real value to people.
         </p>
 
         <div className="skills">
@@ -118,8 +120,6 @@ function App() {
           <span>MongoDB</span>
           <span>MySQL</span>
           <span>APIs</span>
-          <span>UI/UX Design</span>
-          <span>Accessibility</span>
         </div>
       </motion.section>
 
